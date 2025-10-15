@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# CMake / build artifacts
+/build/
+/build-*/
+/CMakeCache.txt
+CMakeFiles/
+/cmake-build-*/
+
+# IDE
+*.idea/
+*.code-workspace
+
+# Xcode derived
+DerivedData/
+*.xcworkspace/
+xcuserdata/
+
+# Binaries
+*.o
+*.a
+*.dSYM/
