@@ -21,3 +21,8 @@ xcuserdata/
 *.o
 *.a
 *.dSYM/
+
+
+# Local secrets (do not commit)
+app/spotify_config.h
+secrets/
